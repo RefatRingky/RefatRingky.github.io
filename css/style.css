@@ -1,0 +1,48 @@
+.banner-container{
+    background-color: darkslategrey;
+}
+.banner-column{
+
+    background-color: rgba(255, 183, 0, 0.788);
+
+}
+.navber-container{
+    background-color: rgba(255, 183, 0, 0.788);
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: rgb(63, 63, 124);
+}
+.Education-container{
+ background-color: mistyrose;
+}
+.redtype{
+
+}
+.redtype-color{
+    color: rgb(7, 7, 7);
+}
+.circle{
+   background-color: rgba(209, 103, 16, 0.952);
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   
+}
+.project-container{
+    background-color: royalblue;
+}
+.portfolio-container{
+    background-color: seashell;
+}
+.form-container{
+    background-color: slategrey;
+}
+.inner-form{
+    background-color: rgb(34, 36, 37);
+}
+.footer{
+    background-color: darkslategrey;
+}
